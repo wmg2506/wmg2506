@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>English</strong> · <a href="./README_ES.md">Español</a>
+</p>
+
 <h1 align="center">Marta González Vázquez</h1>
 
 <p align="center">
@@ -20,62 +24,62 @@
 
 > I turn complex operational environments into trustworthy data products: clear requirements, explicit rules, reproducible pipelines and evidence that people can use to make decisions.
 
-## Perfil profesional
+## Professional profile
 
-Soy una profesional sénior de tecnología y operaciones con más de 25 años de experiencia en **gestión de servicios IT, infraestructuras críticas, telecomunicaciones y operaciones internacionales**.
+I am a senior technology and operations professional with more than 25 years of experience in **IT service management, critical infrastructure, telecommunications and international operations**.
 
-Mi especialización actual incorpora **analítica de datos, Python y SQL aplicados, Power BI, calidad y gobierno del dato, machine learning e IA**. No parto de un problema técnico aislado: conecto necesidades operativas, personas, procesos y datos para construir soluciones fiables y explicables.
+My current specialisation brings together **data analytics, applied Python and SQL, Power BI, data quality and governance, machine learning and AI**. I do not start from an isolated technical problem: I connect operational needs, people, processes and data to build reliable and explainable solutions.
 
-He trabajado en entornos internacionales y de alta criticidad, incluyendo Naciones Unidas, y actualmente desarrollo proyectos de datos aplicados a **acción anticipatoria humanitaria, sostenibilidad urbana y resiliencia operativa**.
+I have worked in international and mission-critical environments, including the United Nations, and I currently develop data projects focused on **humanitarian anticipatory action, urban sustainability and operational resilience**.
 
-## Lo que aporto
+## What I bring
 
-| Experiencia sénior | Capa de datos | Enfoque de consultoría |
+| Senior experience | Data layer | Consulting approach |
 |---|---|---|
-| Operaciones críticas, continuidad, ITSM y service delivery | Python, SQL, pandas, Jupyter, ETL, APIs y formatos CSV/XLSX/Parquet | Descubrimiento del problema, requisitos y comunicación con interlocutores |
-| KPI, SLA, reporting ejecutivo y Power BI/DAX | Calidad de datos, claves, cardinalidad, deduplicación y pruebas | Metodología, trazabilidad, revisión humana y límites explícitos |
-| Infraestructura, telecomunicaciones, IoT y equipos internacionales | Modelado dimensional, integración multifuente y análisis geoespacial | Traducción entre negocio, operaciones y equipos técnicos |
+| Critical operations, continuity, ITSM and service delivery | Python, SQL, pandas, Jupyter, ETL, APIs and CSV/XLSX/Parquet formats | Problem discovery, requirements and stakeholder communication |
+| KPI, SLA, executive reporting and Power BI/DAX | Data quality, keys, cardinality, deduplication and testing | Methodology, traceability, human review and explicit limitations |
+| Infrastructure, telecommunications, IoT and international teams | Dimensional modelling, multi-source integration and geospatial analysis | Translation between business, operations and technical teams |
 
-## Proyecto destacado
+## Featured project
 
-### [Datos para acción anticipatoria en Níger](https://github.com/wmg2506/niger-anticipatory-action-portfolio)
+### [Data for anticipatory action in Niger](https://github.com/wmg2506/niger-anticipatory-action-portfolio)
 
-Caso desarrollado durante mis prácticas en **Acción contra el Hambre España** para transformar fuentes humanitarias y operacionales dispersas en una arquitectura de datos trazable y reproducible.
+A case developed during my internship at **Action Against Hunger Spain** to transform fragmented humanitarian and operational sources into a traceable and reproducible data architecture.
 
-**Mi trabajo:** Data Landscape, auditoría de fuentes, pipelines Python, calidad de datos, integración multifuente, documentación metodológica y validación automatizada.
+**My work:** Data Landscape, source auditing, Python pipelines, data quality, multi-source integration, methodological documentation and automated validation.
 
-| Evidencia | Resultado |
+| Evidence | Result |
 |---|---:|
-| Fuentes del piloto | Kobo · INFORM Risk · INFORM Severity · WFP · Network |
-| Notebooks reproducibles ejecutados | 7/7 |
-| Pruebas validadas en el proyecto | 41/41 |
-| Respuestas Kobo utilizables | 6.371 |
-| Mercados WFP enlazados con geografía OCHA | 79/79 |
-| Grupos Kobo compatibles con INFORM Risk | 62/62 |
+| Pilot sources | Kobo · INFORM Risk · INFORM Severity · WFP · Network |
+| Reproducible notebooks executed | 7/7 |
+| Tests validated across the project | 41/41 |
+| Usable Kobo responses | 6,371 |
+| WFP markets linked to OCHA geography | 79/79 |
+| Kobo groups compatible with INFORM Risk | 62/62 |
 
-El caso público explica la metodología y los resultados agregados sin publicar código, microdatos, credenciales ni activos internos de la organización.
+The public case explains the methodology and aggregated results without publishing code, microdata, credentials or internal organisational assets.
 
-## En desarrollo
+## In development
 
-### GEOSEM–Madrid · TFM
+### GEOSEM–Madrid · Master's thesis
 
-Marco GeoAI para analizar la brecha de sostenibilidad de edificios municipales de Madrid, combinando datos energéticos, urbanos y geoespaciales. El proyecto contempla capas descriptivas y predictivas, priorización interpretable y visualización para apoyar decisiones.
+A GeoAI framework to analyse the sustainability gap of municipal buildings in Madrid by combining energy, urban and geospatial data. The project includes descriptive and predictive layers, interpretable prioritisation and visualisation to support decisions.
 
-El repositorio de equipo no es público. Publicaré el caso de portfolio cuando el alcance y los materiales compartibles estén validados.
+The team repository is private. I will publish the portfolio case once the scope and shareable materials have been validated.
 
-## Experiencia que conecta con los datos
+## Experience connected to data
 
-- **Acción contra el Hambre España — Transformación Digital:** arquitectura y calidad de datos para acción anticipatoria en Níger.
-- **United Nations Global Service Centre (2020–2025):** Information Systems Officer y Network Control Center Manager; continuidad operativa, infraestructura crítica, telecomunicaciones, IoT, energía, HVAC, monitorización y reporting.
-- Trayectoria previa en gestión de servicios y operaciones IT en organizaciones como **Atlas Copco, BT, Banco Santander y Abbott**.
+- **Action Against Hunger Spain — Digital Transformation:** data architecture and quality for anticipatory action in Niger.
+- **United Nations Global Service Centre (2020–2025):** Information Systems Officer and Network Control Center Manager; operational continuity, critical infrastructure, telecommunications, IoT, energy, HVAC, monitoring and reporting.
+- Previous experience in IT service management and operations at organisations including **Atlas Copco, BT, Banco Santander and Abbott**.
 
-## Herramientas y áreas de trabajo
+## Tools and areas of work
 
 `Python` · `pandas` · `NumPy` · `Jupyter` · `SQL` · `Power BI` · `DAX` · `Git` · `APIs` · `JSON` · `CSV` · `XLSX` · `Parquet`
 
 `Data Quality` · `Data Governance` · `ETL` · `Dimensional Modelling` · `KPI/SLA` · `ITSM` · `Critical Operations` · `Geospatial Analytics` · `Applied Machine Learning`
 
-## Certificaciones profesionales
+## Professional certifications
 
 - **ITIL Expert v3** · ITIL 4 Foundation.
 - **PRINCE2 Agile** · Scrum Foundation.
@@ -83,14 +87,10 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 - **Accredited Tier Specialist**.
 - **EXIN Data Centre Foundation Certificate**.
 
-## Formación actual
+## Current education
 
-- Máster en Data Science & Business Analytics — en curso.
-- Profundización práctica en Python, SQL, machine learning, IA aplicada y arquitectura de datos.
-
-## English snapshot
-
-Senior IT and critical-operations professional with 25+ years of international experience, now applying data analytics, Python, SQL, Power BI, machine learning, data quality and responsible AI to real operational problems. I bring together technical delivery, stakeholder understanding and rigorous evidence—particularly in humanitarian data, infrastructure resilience and sustainability.
+- Master's degree in Data Science & Business Analytics — in progress.
+- Applied development in Python, SQL, machine learning, AI and data architecture.
 
 ---
 
