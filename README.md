@@ -40,7 +40,7 @@ I have worked in international and mission-critical environments, including the 
 | KPI, SLA, executive reporting and Power BI/DAX | Data quality, keys, cardinality, deduplication and testing | Methodology, traceability, human review and explicit limitations |
 | Infrastructure, telecommunications, IoT and international teams | Dimensional modelling, multi-source integration and geospatial analysis | Translation between business, operations and technical teams |
 
-## Featured project
+## Featured projects
 
 ### [Data for anticipatory action in Niger](https://github.com/wmg2506/niger-anticipatory-action-portfolio)
 
@@ -53,11 +53,25 @@ A case developed during my internship at **Action Against Hunger Spain** to tran
 | Pilot sources | Kobo · INFORM Risk · INFORM Severity · WFP · Network |
 | Reproducible notebooks executed | 7/7 |
 | Tests validated across the project | 41/41 |
+| INFORM Severity geographic-scope controls | 17/17 |
 | Usable Kobo responses | 6,371 |
 | WFP markets linked to OCHA geography | 79/79 |
 | Kobo groups compatible with INFORM Risk | 62/62 |
 
 The public case explains the methodology and aggregated results without publishing code, microdata, credentials or internal organisational assets.
+
+### [EWS Madrid · FIES model audit](./case-studies/ews-madrid-fies-audit/README.md)
+
+Completed audit of an early-warning modelling workflow across **185 municipalities**, covering target lineage, temporal grain, imputation, leakage, model selection and honest out-of-sample validation.
+
+| Audit evidence | Result |
+|---|---:|
+| Municipalities | 185 |
+| Repeated validation | 5 folds × 5 repetitions |
+| Backfilled cells using future information | 64,257 · 7.1% of originally missing values |
+| Final model | None: no candidate beat the median baseline |
+
+The conclusion is operationally important: current estimates should not be presented as reliable future predictions. Multi-year FIES history and a documented target formula are required before predictive modelling; otherwise the work should remain descriptive.
 
 ## In development
 
@@ -97,3 +111,4 @@ The team repository is private. I will publish the portfolio case once the scope
 <p align="center">
   <strong>Reliable data · Operational judgement · Reproducible delivery</strong>
 </p>
+
