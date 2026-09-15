@@ -93,13 +93,17 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 
 `Data Quality` · `Data Governance` · `ETL` · `Dimensional Modelling` · `KPI/SLA` · `ITSM` · `Critical Operations` · `Geospatial Analytics` · `Applied Machine Learning`
 
-## Certificaciones profesionales
+## Certificaciones y formación profesional de Naciones Unidas
 
-- **ITIL Expert v3** · ITIL 4 Foundation.
-- **PRINCE2 Agile** · Scrum Foundation.
 - **FinOps Certified Practitioner**.
+- **ITIL Expert v3**.
+- **ITIL 4 Foundation**.
+- **Scrum Foundation**.
 - **Accredited Tier Specialist**.
+- **KPL Achieving Service Excellence Advanced** — APMG, noviembre de 2024.
+- **PRINCE2 Agile**.
 - **EXIN Data Centre Foundation Certificate**.
+- **Formación profesional de Naciones Unidas en procurement y gestión contractual** — términos de referencia (ToR), requests for proposal (RFP), low-value acquisitions (LVA), licitaciones, evaluación de propuestas y seguimiento de contratos.
 
 ## Formación actual
 
