@@ -93,13 +93,17 @@ The team repository is private. I will publish the portfolio case once the scope
 
 `Data Quality` · `Data Governance` · `ETL` · `Dimensional Modelling` · `KPI/SLA` · `ITSM` · `Critical Operations` · `Geospatial Analytics` · `Applied Machine Learning`
 
-## Professional certifications
+## Professional certifications and United Nations training
 
-- **ITIL Expert v3** · ITIL 4 Foundation.
-- **PRINCE2 Agile** · Scrum Foundation.
 - **FinOps Certified Practitioner**.
+- **ITIL Expert v3**.
+- **ITIL 4 Foundation**.
+- **Scrum Foundation**.
 - **Accredited Tier Specialist**.
+- **KPL Achieving Service Excellence Advanced** — APMG, November 2024.
+- **PRINCE2 Agile**.
 - **EXIN Data Centre Foundation Certificate**.
+- **United Nations professional training in procurement and contract management** — terms of reference (ToR), requests for proposal (RFP), low-value acquisitions (LVA), tendering, proposal evaluation and contract follow-up.
 
 ## Current education
 
