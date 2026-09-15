@@ -40,7 +40,7 @@ He trabajado en entornos internacionales y de alta criticidad, incluyendo Nacion
 | KPI, SLA, reporting ejecutivo y Power BI/DAX | Calidad de datos, claves, cardinalidad, deduplicación y pruebas | Metodología, trazabilidad, revisión humana y límites explícitos |
 | Infraestructura, telecomunicaciones, IoT y equipos internacionales | Modelado dimensional, integración multifuente y análisis geoespacial | Traducción entre negocio, operaciones y equipos técnicos |
 
-## Proyecto destacado
+## Proyectos destacados
 
 ### [Datos para acción anticipatoria en Níger](https://github.com/wmg2506/niger-anticipatory-action-portfolio)
 
@@ -53,11 +53,25 @@ Caso desarrollado durante mis prácticas en **Acción contra el Hambre España**
 | Fuentes del piloto | Kobo · INFORM Risk · INFORM Severity · WFP · Network |
 | Notebooks reproducibles ejecutados | 7/7 |
 | Pruebas validadas en el proyecto | 41/41 |
+| Controles de alcance geográfico de INFORM Severity | 17/17 |
 | Respuestas Kobo utilizables | 6.371 |
 | Mercados WFP enlazados con geografía OCHA | 79/79 |
 | Grupos Kobo compatibles con INFORM Risk | 62/62 |
 
 El caso público explica la metodología y los resultados agregados sin publicar código, microdatos, credenciales ni activos internos de la organización.
+
+### [EWS Madrid · Auditoría del modelo FIES](./case-studies/ews-madrid-fies-audit/README_ES.md)
+
+Auditoría terminada de un flujo de modelado de alerta temprana sobre **185 municipios**, incluyendo linaje del objetivo, granularidad temporal, imputación, fuga de información, selección de modelos y validación honesta fuera de muestra.
+
+| Evidencia de auditoría | Resultado |
+|---|---:|
+| Municipios | 185 |
+| Validación repetida | 5 folds × 5 repeticiones |
+| Celdas rellenadas con información futura | 64.257 · 7,1 % de los ausentes originales |
+| Modelo final | Ninguno: ningún candidato superó al baseline de la mediana |
+
+La conclusión es operativa: las estimaciones actuales no deben presentarse como predicciones futuras fiables. Para modelar se necesita histórico FIES multianual y una fórmula del objetivo documentada; de lo contrario, el trabajo debe limitarse a análisis descriptivo.
 
 ## En desarrollo
 
@@ -97,3 +111,4 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 <p align="center">
   <strong>Reliable data · Operational judgement · Reproducible delivery</strong>
 </p>
+
