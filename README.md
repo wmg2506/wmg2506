@@ -60,7 +60,7 @@ A case developed during my internship at **Action Against Hunger Spain** to tran
 
 The public case explains the methodology and aggregated results without publishing code, microdata, credentials or internal organisational assets.
 
-### [EWS Madrid · FIES model audit](./case-studies/ews-madrid-fies-audit/README.md)
+### [Municipal early-warning model audit](./case-studies/ews-madrid-fies-audit/README.md)
 
 Completed audit of an early-warning modelling workflow across **185 municipalities**, covering target lineage, temporal grain, imputation, leakage, model selection and honest out-of-sample validation.
 
