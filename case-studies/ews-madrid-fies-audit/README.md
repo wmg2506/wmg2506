@@ -2,15 +2,16 @@
   <strong>English</strong> · <a href="./README_ES.md">Español</a>
 </p>
 
-# EWS Madrid · Audit of a FIES predictive model
+# Madrid Municipal Early-Warning Model Audit
 
-> A completed audit showing why high training performance did not demonstrate reliable prediction for unseen municipalities.
+> A senior data-governance case: deciding whether the evidence was strong enough to support predictive use—not merely selecting the most sophisticated algorithm.
 
 **Author:** Marta González Vázquez  
 **Context:** early-warning data and modelling audit  
 **Status:** completed · September 2026  
 **Scope:** 185 municipalities  
-**Technologies:** Python · pandas · scikit-learn · Jupyter · data quality · temporal validation
+**Technologies:** Python · pandas · scikit-learn · Jupyter · data quality · temporal validation  
+**Technical reference:** EWS Madrid workflow; FIES is the food-insecurity experience target used in the audited model.
 
 ## Executive conclusion
 
