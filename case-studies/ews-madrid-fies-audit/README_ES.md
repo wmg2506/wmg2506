@@ -2,15 +2,16 @@
   <a href="./README.md">English</a> · <strong>Español</strong>
 </p>
 
-# EWS Madrid · Auditoría de un modelo predictivo FIES
+# Auditoría de un modelo municipal de alerta temprana
 
-> Auditoría terminada que explica por qué un buen ajuste en entrenamiento no demostraba capacidad predictiva en municipios no vistos.
+> Un caso de gobierno del dato con criterio sénior: decidir si la evidencia justificaba un uso predictivo, no limitarse a elegir el algoritmo más sofisticado.
 
 **Autora:** Marta González Vázquez  
 **Contexto:** auditoría de datos y modelado para alerta temprana  
 **Estado:** terminada · septiembre de 2026  
 **Alcance:** 185 municipios  
-**Tecnologías:** Python · pandas · scikit-learn · Jupyter · calidad del dato · validación temporal
+**Tecnologías:** Python · pandas · scikit-learn · Jupyter · calidad del dato · validación temporal  
+**Referencia técnica:** flujo EWS Madrid; FIES es el objetivo de experiencia de inseguridad alimentaria utilizado por el modelo auditado.
 
 ## Conclusión ejecutiva
 
