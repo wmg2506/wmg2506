@@ -60,7 +60,7 @@ Caso desarrollado durante mis prácticas en **Acción contra el Hambre España**
 
 El caso público explica la metodología y los resultados agregados sin publicar código, microdatos, credenciales ni activos internos de la organización.
 
-### [EWS Madrid · Auditoría del modelo FIES](./case-studies/ews-madrid-fies-audit/README_ES.md)
+### [Auditoría de un modelo municipal de alerta temprana](./case-studies/ews-madrid-fies-audit/README_ES.md)
 
 Auditoría terminada de un flujo de modelado de alerta temprana sobre **185 municipios**, incluyendo linaje del objetivo, granularidad temporal, imputación, fuga de información, selección de modelos y validación honesta fuera de muestra.
 
