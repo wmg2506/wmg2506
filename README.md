@@ -5,7 +5,7 @@
 <h1 align="center">Marta González Vázquez</h1>
 
 <p align="center">
-  <strong>Senior IT & Critical Operations · Data Analytics · Data Quality · ML & AI</strong>
+  <strong>Senior IT & Critical Operations · Service Delivery · Data Governance · Applied AI</strong>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 
 ## Professional profile
 
-I am a senior technology and operations professional with more than 25 years of experience in **IT service management, critical infrastructure, telecommunications and international operations**.
+I am a senior IT and critical-operations professional with 25+ years of international experience in service delivery, digital workplace, critical infrastructure and team leadership.
 
-My current specialisation brings together **data analytics, applied Python and SQL, Power BI, data quality and governance, machine learning and AI**. I do not start from an isolated technical problem: I connect operational needs, people, processes and data to build reliable and explainable solutions.
+At the United Nations Global Service Centre, I served as Information Systems Officer / Chief, Technology Infrastructure Support Unit and Network Control Center Manager, with responsibility for international teams, staff appraisals, two Tier III data centres, suppliers, contracts and service performance. At Atlas Copco, I managed the global Office 365 service for 48,000+ users.
 
-I have worked in international and mission-critical environments, including the United Nations, and I currently develop data projects focused on **humanitarian anticipatory action, urban sustainability and operational resilience**.
+I connect IT business needs with reliable data and operational decisions. My established experience includes Power BI, DAX, MySQL, IoT monitoring and SLA/KPI analysis. Current projects add Python, multi-source integration and statistical exploratory analysis: selecting variables by meaning and coverage, checking uncertainty, and distinguishing associations from predictive evidence. My current studies include ML/AI foundations and generative AI, with attention to evidence, limitations and human review.
 
 ## What I bring
 
@@ -59,6 +59,8 @@ A case developed during my internship at **Action Against Hunger Spain** to tran
 | Kobo groups compatible with INFORM Risk | 62/62 |
 
 The public case explains the methodology and aggregated results without publishing code, microdata, credentials or internal organisational assets.
+
+Recent work also documents Cadre Harmonisé integration with prior conflict and rainfall signals, exploratory statistical analysis and temporal-validation requirements. The predictive baseline remains pending.
 
 ### [Municipal early-warning model audit](./case-studies/ews-madrid-fies-audit/README.md)
 
@@ -89,9 +91,11 @@ The team repository is private. I will publish the portfolio case once the scope
 
 ## Tools and areas of work
 
-`Python` · `pandas` · `NumPy` · `Jupyter` · `SQL` · `Power BI` · `DAX` · `Git` · `APIs` · `JSON` · `CSV` · `XLSX` · `Parquet`
+**Service leadership:** ITSM · Service Delivery · Critical Operations · Digital Workplace · Team Leadership · Supplier & Contract Governance · SLA/KPI.
 
-`Data Quality` · `Data Governance` · `ETL` · `Dimensional Modelling` · `KPI/SLA` · `ITSM` · `Critical Operations` · `Geospatial Analytics` · `Applied Machine Learning`
+**Established analytics:** Power BI · DAX · MySQL · IoT monitoring · Data Quality · Operational Reporting.
+
+**Current projects and study:** Python · SQL · pandas · ETL/APIs · Git · Docker · statistical EDA · ML/AI foundations · Generative AI in current study.
 
 ## Professional certifications and United Nations training
 
