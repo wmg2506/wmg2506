@@ -5,7 +5,7 @@
 <h1 align="center">Marta González Vázquez</h1>
 
 <p align="center">
-  <strong>Senior IT & Critical Operations · Data Analytics · Data Quality · ML & AI</strong>
+  <strong>Senior IT & Critical Operations · Service Delivery · Data Governance · Applied AI</strong>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 
 ## Perfil profesional
 
-Soy una profesional sénior de tecnología y operaciones con más de 25 años de experiencia en **gestión de servicios IT, infraestructuras críticas, telecomunicaciones y operaciones internacionales**.
+Soy una profesional sénior de IT y operaciones críticas con más de 25 años de experiencia internacional en service delivery, puesto de trabajo digital, infraestructura crítica y dirección de equipos.
 
-Mi especialización actual incorpora **analítica de datos, Python y SQL aplicados, Power BI, calidad y gobierno del dato, machine learning e IA**. No parto de un problema técnico aislado: conecto necesidades operativas, personas, procesos y datos para construir soluciones fiables y explicables.
+En el United Nations Global Service Centre ejercí como Information Systems Officer / Chief, Technology Infrastructure Support Unit y Network Control Center Manager, con responsabilidad sobre equipos internacionales, appraisals, dos centros Tier III, proveedores, contratos y rendimiento del servicio. En Atlas Copco gestioné el servicio global de Office 365 para más de 48.000 usuarios.
 
-He trabajado en entornos internacionales y de alta criticidad, incluyendo Naciones Unidas, y actualmente desarrollo proyectos de datos aplicados a **acción anticipatoria humanitaria, sostenibilidad urbana y resiliencia operativa**.
+Conecto necesidades de negocio IT con datos fiables y decisiones operativas. Mi experiencia consolidada incluye Power BI, DAX, MySQL, monitorización IoT y análisis de SLA/KPI. Los proyectos actuales incorporan Python, integración multifuente y análisis estadístico exploratorio: seleccionar variables por significado y cobertura, revisar incertidumbre y distinguir asociaciones de evidencia predictiva. Mi formación actual incluye fundamentos de ML/IA e IA generativa, con atención a la evidencia, los límites y la revisión humana.
 
 ## Lo que aporto
 
@@ -59,6 +59,8 @@ Caso desarrollado durante mis prácticas en **Acción contra el Hambre España**
 | Grupos Kobo compatibles con INFORM Risk | 62/62 |
 
 El caso público explica la metodología y los resultados agregados sin publicar código, microdatos, credenciales ni activos internos de la organización.
+
+El trabajo reciente también documenta la integración de Cadre Harmonisé con señales anteriores de conflicto y lluvia, análisis estadístico exploratorio y requisitos de validación temporal. El baseline predictivo sigue pendiente.
 
 ### [Auditoría de un modelo municipal de alerta temprana](./case-studies/ews-madrid-fies-audit/README_ES.md)
 
@@ -89,9 +91,11 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 
 ## Herramientas y áreas de trabajo
 
-`Python` · `pandas` · `NumPy` · `Jupyter` · `SQL` · `Power BI` · `DAX` · `Git` · `APIs` · `JSON` · `CSV` · `XLSX` · `Parquet`
+**Dirección de servicios:** ITSM · Service Delivery · Operaciones críticas · Digital Workplace · Equipos · Gobierno de proveedores y contratos · SLA/KPI.
 
-`Data Quality` · `Data Governance` · `ETL` · `Dimensional Modelling` · `KPI/SLA` · `ITSM` · `Critical Operations` · `Geospatial Analytics` · `Applied Machine Learning`
+**Analítica consolidada:** Power BI · DAX · MySQL · Monitorización IoT · Calidad del dato · Reporting operativo.
+
+**Proyectos y formación actuales:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · IA generativa en estudio actual.
 
 ## Certificaciones y formación profesional de Naciones Unidas
 
