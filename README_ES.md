@@ -95,10 +95,11 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 
 **Analítica consolidada:** Power BI · DAX · MySQL · Monitorización IoT · Calidad del dato · Reporting operativo.
 
-**Proyectos y formación actuales:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · IA generativa en estudio actual.
+**Proyectos y formación actuales:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · IA generativa y prompt engineering mediante formación de AWS Academy.
 
 ## Certificaciones y formación profesional de Naciones Unidas
 
+- **[AWS Academy Graduate - Generative AI Foundations - Training Badge](https://www.credly.com/badges/856294a9-981a-4a20-9fdf-6a1c4fbce04d)** — AWS Academy, 12 horas, 3 de octubre de 2026; formación en IA, AWS, IA generativa y prompt engineering.
 - **FinOps Certified Practitioner**.
 - **ITIL Expert v3**.
 - **ITIL 4 Foundation**.
