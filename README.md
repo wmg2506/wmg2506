@@ -95,10 +95,11 @@ The team repository is private. I will publish the portfolio case once the scope
 
 **Established analytics:** Power BI · DAX · MySQL · IoT monitoring · Data Quality · Operational Reporting.
 
-**Current projects and study:** Python · SQL · pandas · ETL/APIs · Git · Docker · statistical EDA · ML/AI foundations · Generative AI in current study.
+**Current projects and study:** Python · SQL · pandas · ETL/APIs · Git · Docker · statistical EDA · ML/AI foundations · generative AI and prompt engineering through AWS Academy training.
 
 ## Professional certifications and United Nations training
 
+- **[AWS Academy Graduate - Generative AI Foundations - Training Badge](https://www.credly.com/badges/856294a9-981a-4a20-9fdf-6a1c4fbce04d)** — AWS Academy, 12 hours, 3 October 2026; training in AI, AWS, generative AI and prompt engineering.
 - **FinOps Certified Practitioner**.
 - **ITIL Expert v3**.
 - **ITIL 4 Foundation**.
