@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-Analytics%20%26%20KPI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI analytics and KPI">
   <img src="https://img.shields.io/badge/Data-Quality%20%26%20Governance-0A66C2?style=flat-square" alt="Data quality and governance">
   <img src="https://img.shields.io/badge/ML%20%26%20AI-Applied-7B2CBF?style=flat-square" alt="Applied machine learning and AI">
+  <a href="https://www.credly.com/go/gRaOS2jP"><img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations training badge"></a>
   <img src="https://img.shields.io/badge/ITIL-Expert-6F2C91?style=flat-square" alt="ITIL Expert">
   <img src="https://img.shields.io/badge/Git-Reproducible%20Workflows-F05032?style=flat-square&logo=git&logoColor=white" alt="Git reproducible workflows">
 </p>
@@ -95,11 +96,12 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 
 **Analítica consolidada:** Power BI · DAX · MySQL · Monitorización IoT · Calidad del dato · Reporting operativo.
 
-**Proyectos y formación actuales:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · IA generativa y prompt engineering mediante formación de AWS Academy.
+**Proyectos y formación actuales:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · AWS Cloud Foundations (arquitectura, servicios principales, pricing y soporte) · IA generativa y prompt engineering mediante formación de AWS Academy.
 
 ## Certificaciones y formación profesional de Naciones Unidas
 
 - **[AWS Academy Graduate - Generative AI Foundations - Training Badge](https://www.credly.com/badges/856294a9-981a-4a20-9fdf-6a1c4fbce04d)** — AWS Academy, 12 horas, 3 de octubre de 2026; formación en IA, AWS, IA generativa y prompt engineering.
+- **[AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/go/gRaOS2jP)** — AWS Academy, 20 horas, 5 de octubre de 2026; competencias: AWS Architecture, AWS Cloud, AWS Core Services, AWS Pricing y AWS Support.
 - **FinOps Certified Practitioner**.
 - **ITIL Expert v3**.
 - **ITIL 4 Foundation**.
@@ -120,4 +122,3 @@ El repositorio de equipo no es público. Publicaré el caso de portfolio cuando 
 <p align="center">
   <strong>Reliable data · Operational judgement · Reproducible delivery</strong>
 </p>
-
