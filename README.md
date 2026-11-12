@@ -76,11 +76,13 @@ Completed audit of an early-warning modelling workflow across **185 municipaliti
 
 The conclusion is operationally important: current estimates should not be presented as reliable future predictions. Multi-year FIES history and a documented target formula are required before predictive modelling; otherwise the work should remain descriptive.
 
-### GEOSEM–Madrid · Completed master's thesis
+### [GEOSEM Madrid · Master's thesis graded 10/10](https://github.com/wmg2506/geosem-madrid)
 
-Completed academic project combining energy, urban and geospatial data to analyse the sustainability gap of municipal buildings in Madrid. The work connects Python data pipelines, data-quality controls, exploratory analysis, predictive modelling and interpretable prioritisation to support decisions.
+Completed team project integrating energy, weather and territorial data for **242 municipal buildings across Madrid's 21 districts**. The updated panel contains **13,361 building-month observations**.
 
-**Academic status: completed.** The team repository remains private. Publication of a separate portfolio case is pending validation of the scope and materials that can be shared.
+The project combines Python pipelines, data-quality controls, chronological model evaluation and a Streamlit application for building-level consultation and multicriteria prioritisation. Random Forest achieved a **test MAE of approximately 4,307 kWh and R² of 0.935** in the reference evaluation. Results vary by building and do not demonstrate energy savings.
+
+The public portfolio includes application screenshots and a presentation. **Source code, datasets and models are not distributed in that portfolio.** The original team repository remains private.
 
 ## Experience connected to data
 
