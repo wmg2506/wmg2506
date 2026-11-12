@@ -76,11 +76,13 @@ Auditoría terminada de un flujo de modelado de alerta temprana sobre **185 muni
 
 La conclusión es operativa: las estimaciones actuales no deben presentarse como predicciones futuras fiables. Para modelar se necesita histórico FIES multianual y una fórmula del objetivo documentada; de lo contrario, el trabajo debe limitarse a análisis descriptivo.
 
-### GEOSEM–Madrid · TFM finalizado
+### [GEOSEM Madrid · TFM calificado con 10/10](https://github.com/wmg2506/geosem-madrid)
 
-Proyecto académico finalizado que combina datos energéticos, urbanos y geoespaciales para analizar la brecha de sostenibilidad de edificios municipales de Madrid. Integra pipelines de datos en Python, controles de calidad, análisis exploratorio, modelado predictivo y priorización interpretable para apoyar decisiones.
+Proyecto de equipo finalizado que integra energía, meteorología y contexto territorial de **242 edificios municipales de los 21 distritos de Madrid**. El panel actualizado contiene **13.361 observaciones de edificio y mes**.
 
-**Estado académico: finalizado.** El repositorio del equipo sigue siendo privado. La publicación de un caso de portfolio independiente queda pendiente de validar el alcance y los materiales que pueden compartirse.
+Combina pipelines Python, controles de calidad, evaluación cronológica de modelos y una aplicación Streamlit para consultar edificios y comparar prioridades multicriterio. Random Forest obtuvo un **MAE test de aproximadamente 4.307 kWh y un R² de 0,935** en la evaluación de referencia. El comportamiento varía entre edificios y estos resultados no demuestran ahorro energético.
+
+El portfolio público incluye capturas de la aplicación y una presentación. **No distribuye código fuente, datasets ni modelos.** El repositorio original del equipo permanece privado.
 
 ## Experiencia que conecta con los datos
 
