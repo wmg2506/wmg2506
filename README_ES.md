@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Madrid, Spain · 25+ years turning complex operations into reliable, decision-ready systems
+  Madrid, España · Gobierno de servicios, operaciones críticas y datos para decidir
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Perfil profesional
 
-Soy una profesional sénior de IT y operaciones críticas con más de 25 años de experiencia internacional en service delivery, puesto de trabajo digital, infraestructura crítica y dirección de equipos.
+Dirijo servicios IT y operaciones críticas en entornos internacionales, combinando gobierno de proveedores y contratos, gestión de servicios ITIL y liderazgo de equipos con analítica operativa.
 
 En el United Nations Global Service Centre ejercí como Information Systems Officer / Chief, Technology Infrastructure Support Unit y Network Control Center Manager, con responsabilidad sobre equipos internacionales, appraisals, dos centros Tier III, proveedores, contratos y rendimiento del servicio. En Atlas Copco gestioné el servicio global de Office 365 para más de 48.000 usuarios.
 
@@ -92,7 +92,7 @@ El portfolio público incluye capturas de la aplicación y una presentación. **
 
 ## Herramientas y áreas de trabajo
 
-**Dirección de servicios:** ITSM · Service Delivery · Operaciones críticas · Digital Workplace · Equipos · Gobierno de proveedores y contratos · SLA/KPI.
+**Dirección de servicios:** ITSM · Service Delivery · Operaciones críticas · Digital Workplace · Equipos · Gobierno de proveedores y contratos · SLA/KPI · Revisiones del servicio · Mejora continua · Transición de servicios · ServiceNow (transición de procesos de Office 365).
 
 **Analítica consolidada:** Power BI · DAX · MySQL · Monitorización IoT · Calidad del dato · Reporting operativo.
 
