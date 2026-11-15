@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Madrid, Spain · 25+ years turning complex operations into reliable, decision-ready systems
+  Madrid, Spain · Service governance, critical operations and decision-ready data
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Professional profile
 
-I am a senior IT and critical-operations professional with 25+ years of international experience in service delivery, digital workplace, critical infrastructure and team leadership.
+I lead IT service delivery and critical operations in international environments, combining supplier and contract governance, ITIL service management and team leadership with operational analytics.
 
 At the United Nations Global Service Centre, I served as Information Systems Officer / Chief, Technology Infrastructure Support Unit and Network Control Center Manager, with responsibility for international teams, staff appraisals, two Tier III data centres, suppliers, contracts and service performance. At Atlas Copco, I managed the global Office 365 service for 48,000+ users.
 
@@ -92,7 +92,7 @@ The public portfolio includes application screenshots and a presentation. **Sour
 
 ## Tools and areas of work
 
-**Service leadership:** ITSM · Service Delivery · Critical Operations · Digital Workplace · Team Leadership · Supplier & Contract Governance · SLA/KPI.
+**Service leadership:** ITSM · Service Delivery · Critical Operations · Digital Workplace · Team Leadership · Supplier & Contract Governance · SLA/KPI · Service Reviews · Continual Improvement · Service Transition · ServiceNow (Office 365 service-process transition).
 
 **Established analytics:** Power BI · DAX · MySQL · IoT monitoring · Data Quality · Operational Reporting.
 
