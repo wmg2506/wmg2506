@@ -5,7 +5,7 @@
 <h1 align="center">Marta González Vázquez</h1>
 
 <p align="center">
-  <strong>Senior IT & Critical Operations · Service Delivery · Data Governance · Applied AI</strong>
+  <strong>Senior IT Service Leadership · Cloud Service Governance · Data & Analytics · Digital Transformation</strong>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Professional profile
 
-I lead IT service delivery and critical operations in international environments, combining supplier and contract governance, ITIL service management and team leadership with operational analytics.
+I lead IT service delivery and critical operations in international environments, combining supplier and contract governance, ITIL service management and team leadership with operational analytics. My FinOps Certified Practitioner credential complements this approach by connecting value, costs and service decisions. My global Microsoft 365 experience provides a concrete foundation for cloud service governance.
 
 At the United Nations Global Service Centre, I served as Information Systems Officer / Chief, Technology Infrastructure Support Unit and Network Control Center Manager, with responsibility for international teams, staff appraisals, two Tier III data centres, suppliers, contracts and service performance. At Atlas Copco, I managed the global Office 365 service for 48,000+ users.
 
@@ -98,7 +98,7 @@ The public portfolio includes application screenshots and a presentation. **Sour
 
 **Applied projects and continuing learning:** Python · SQL · pandas · ETL/APIs · Git · Docker · statistical EDA · ML/AI foundations · AWS Cloud Foundations (architecture, core services, pricing and support) · generative AI and prompt engineering through AWS Academy training.
 
-## Professional certifications and United Nations training
+## Professional certifications and training
 
 - **[AWS Academy Graduate - Generative AI Foundations - Training Badge](https://www.credly.com/badges/856294a9-981a-4a20-9fdf-6a1c4fbce04d)** — AWS Academy, 12 hours, 3 October 2026; training in AI, AWS, generative AI and prompt engineering.
 - **[AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/go/gRaOS2jP)** — AWS Academy, 20 hours, 5 October 2026; skills: AWS Architecture, AWS Cloud, AWS Core Services, AWS Pricing and AWS Support.
