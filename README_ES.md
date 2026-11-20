@@ -5,7 +5,7 @@
 <h1 align="center">Marta González Vázquez</h1>
 
 <p align="center">
-  <strong>Senior IT & Critical Operations · Service Delivery · Data Governance · Applied AI</strong>
+  <strong>Dirección sénior de servicios IT · Gobierno de servicios cloud · Datos y analítica · Transformación digital</strong>
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/Git-Reproducible%20Workflows-F05032?style=flat-square&logo=git&logoColor=white" alt="Git reproducible workflows">
 </p>
 
-> I turn complex operational environments into trustworthy data products: clear requirements, explicit rules, reproducible pipelines and evidence that people can use to make decisions.
+> Conecto operaciones IT, necesidades de negocio y datos fiables para evaluar servicios, priorizar mejoras y apoyar decisiones con evidencia.
 
 ## Perfil profesional
 
-Dirijo servicios IT y operaciones críticas en entornos internacionales, combinando gobierno de proveedores y contratos, gestión de servicios ITIL y liderazgo de equipos con analítica operativa.
+Dirijo servicios IT y operaciones críticas en entornos internacionales, combinando gobierno de proveedores y contratos, gestión de servicios ITIL y liderazgo de equipos con analítica operativa. Mi acreditación FinOps Certified Practitioner complementa este enfoque para conectar valor, costes y decisiones de servicio. Mi experiencia en Microsoft 365 global aporta una base concreta para el gobierno de servicios cloud.
 
 En el United Nations Global Service Centre ejercí como Information Systems Officer / Chief, Technology Infrastructure Support Unit y Network Control Center Manager, con responsabilidad sobre equipos internacionales, appraisals, dos centros Tier III, proveedores, contratos y rendimiento del servicio. En Atlas Copco gestioné el servicio global de Office 365 para más de 48.000 usuarios.
 
@@ -98,7 +98,7 @@ El portfolio público incluye capturas de la aplicación y una presentación. **
 
 **Proyectos aplicados y formación continua:** Python · SQL · pandas · ETL/APIs · Git · Docker · EDA estadístico · Fundamentos ML/IA · AWS Cloud Foundations (arquitectura, servicios principales, pricing y soporte) · IA generativa y prompt engineering mediante formación de AWS Academy.
 
-## Certificaciones y formación profesional de Naciones Unidas
+## Certificaciones profesionales y formación
 
 - **[AWS Academy Graduate - Generative AI Foundations - Training Badge](https://www.credly.com/badges/856294a9-981a-4a20-9fdf-6a1c4fbce04d)** — AWS Academy, 12 horas, 3 de octubre de 2026; formación en IA, AWS, IA generativa y prompt engineering.
 - **[AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/go/gRaOS2jP)** — AWS Academy, 20 horas, 5 de octubre de 2026; competencias: AWS Architecture, AWS Cloud, AWS Core Services, AWS Pricing y AWS Support.
